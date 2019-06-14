@@ -66,3 +66,8 @@ or [castnow](https://github.com/xat/castnow)
 ## License
 
 MIT
+
+
+DOCKER
+
+docker build -t dewijones92/peerflix .
